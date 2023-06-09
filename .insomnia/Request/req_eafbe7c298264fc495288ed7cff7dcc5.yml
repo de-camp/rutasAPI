@@ -1,0 +1,33 @@
+_id: req_eafbe7c298264fc495288ed7cff7dcc5
+type: Request
+parentId: fld_acbda8290c204cca84e65ab590437624
+modified: 1686061859890
+created: 1685552633128
+url: http://localhost:3500/api/auth/signin
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_20e1ec7eb0e44e9d9d59287f002728c2
+      name: identifier
+      value: lee@gmail.com
+      description: ""
+    - id: pair_df36c805c4e0499984e7120d8df86c16
+      name: password
+      value: 12345678Aa!
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1686061831285.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

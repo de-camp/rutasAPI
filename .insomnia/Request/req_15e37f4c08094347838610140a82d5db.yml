@@ -1,0 +1,26 @@
+_id: req_15e37f4c08094347838610140a82d5db
+type: Request
+parentId: fld_951d2681730244a49faa188aa26c5e22
+modified: 1686264511393
+created: 1686145377322
+url: http://localhost:3500/api/trabajito/jobs/
+name: Mis Trabajitos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_985d5d539bbe4449972b827550e125e3
+    name: authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDdmM2U2N2MwNGRkYzA3MDQ1OTU1YTUiLCJpYXQiOjE2ODYwNjA3MjgsImV4cCI6MTY4NzM1NjcyOH0.Q8YTcb3T5-I208kfMHe138IYniVIrA2B48yviWwLIx0
+    description: ""
+authentication: {}
+metaSortKey: -1685947169159.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

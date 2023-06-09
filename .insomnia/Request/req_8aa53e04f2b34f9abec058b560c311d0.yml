@@ -1,0 +1,43 @@
+_id: req_8aa53e04f2b34f9abec058b560c311d0
+type: Request
+parentId: fld_951d2681730244a49faa188aa26c5e22
+modified: 1686267440322
+created: 1686266902851
+url: http://localhost:3500/api/trabajito/finalization
+name: Finish Confirmation Trabajito
+description: ""
+method: PATCH
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_daa6ca7adc204ad0a90ad4946d571922
+      name: id
+      value: 647f4002c04ddc07045955b1
+      description: ""
+    - id: pair_fb11ca379ae24341b177ba7ee6e2f994
+      name: endNumber
+      value: "1235"
+      description: ""
+    - id: pair_f14b268431f444f0979bca04f09cc1d1
+      name: status
+      value: 647bd7bf8cf61bb279d124a7
+      description: ""
+parameters: []
+headers:
+  - id: pair_ec275b876e0e4f0b9d09ccf1dcde2b32
+    name: authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDdmM2U2M2MwNGRkYzA3MDQ1OTU1YTIiLCJpYXQiOjE2ODYwNjA2NjYsImV4cCI6MTY4NzM1NjY2Nn0.apS5adibdwTxziIBnMDRsN5g5ol8qb7ckPAEairQyww
+    description: ""
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_778fa7f069b9493282c47351b4b6c1e4
+authentication: {}
+metaSortKey: -1685947169081.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

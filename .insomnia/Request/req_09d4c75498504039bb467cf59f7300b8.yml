@@ -1,0 +1,21 @@
+_id: req_09d4c75498504039bb467cf59f7300b8
+type: Request
+parentId: wrk_086dcc8361854db89413fee39f93007e
+modified: 1685829308016
+created: 1685829291561
+url: http://localhost:3500/api/auth
+name: Obtener usuarios
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685829291561
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

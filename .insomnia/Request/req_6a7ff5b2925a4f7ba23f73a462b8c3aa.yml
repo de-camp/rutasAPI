@@ -1,0 +1,26 @@
+_id: req_6a7ff5b2925a4f7ba23f73a462b8c3aa
+type: Request
+parentId: fld_b6634003400048eb9bdfe026168e72db
+modified: 1686101737220
+created: 1686061909204
+url: http://localhost:3500/api/portfolio
+name: Obtener Portfolio
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_a6bb0212939f4d518b05a4eb59645b08
+authentication: {}
+metaSortKey: -1686061909204
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_13731d9be61f4a448583b747a2f7c159
+type: Request
+parentId: wrk_086dcc8361854db89413fee39f93007e
+modified: 1685833683504
+created: 1685832529525
+url: http://localhost:3500/api/pruebas
+name: Insertando Municipalidad
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_52ba145a01ba44f6a2abaed04f0330bd
+      name: name
+      value: Soyapango
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1685832529525
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

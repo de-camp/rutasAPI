@@ -1,0 +1,45 @@
+_id: req_0178839bdbd24ad4a749d3cc9662750f
+type: Request
+parentId: fld_5f0c931c19bb4f2da3e5f5d95ac8b63f
+modified: 1686104651352
+created: 1685553631583
+url: http://localhost:3500/api/auth/signup
+name: Registro 02
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_ce77bf1d047d4269b2e282a61905c3db
+      name: name
+      value: Mauri Aguilar
+      description: ""
+    - id: pair_c9ec87b2de674583b0de0a1a1aaa7f2f
+      name: phone
+      value: "22777777"
+      description: ""
+    - id: pair_6325edaa1e764449bc956495e768a5a6
+      name: email
+      value: mauri@gmail.com
+      description: ""
+    - id: pair_17aaddb5997e49a09037bc07bbe7f4b0
+      name: password
+      value: 12345678Aa!
+      description: ""
+    - id: pair_b8bceb2f170d48609cfaee8eb3150a3d
+      name: municipality
+      value: 647bc648295220cfc4fc4558
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1683993530512
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

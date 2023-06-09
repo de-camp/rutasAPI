@@ -1,0 +1,47 @@
+_id: req_7d32c727b5574e5b99b164380416b583
+type: Request
+parentId: fld_b6634003400048eb9bdfe026168e72db
+modified: 1686102076156
+created: 1686101740106
+url: http://localhost:3500/api/portfolio
+name: Crear Portfolio
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_dd4febcd567149b097ab67f7b2c4bb34
+      name: title
+      value: Trabajos de carpinteria
+      description: ""
+    - id: pair_3cd26518de43462daf5595f3b993393e
+      name: description
+      value: Descripcion de un trabajo de carpinteria
+      description: ""
+    - id: pair_a7a071a8449f476f8c0d87d44ee8e0c8
+      name: images
+      value: Aun se debe averiguar como insertar esta informacion
+      description: ""
+    - id: pair_d6e98535817949e1a8b610d652d7b966
+      name: category
+      value: 647bdb9629820a37e0821de6
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_0bc1c812f69e4d6db60513984fa523c4
+  - id: pair_955bd5598f6a4c8d8fc0216ce931157b
+    name: authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDdmM2U2M2MwNGRkYzA3MDQ1OTU1YTIiLCJpYXQiOjE2ODYwNjA2NjYsImV4cCI6MTY4NzM1NjY2Nn0.apS5adibdwTxziIBnMDRsN5g5ol8qb7ckPAEairQyww
+    description: ""
+authentication: {}
+metaSortKey: -1686061909154
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

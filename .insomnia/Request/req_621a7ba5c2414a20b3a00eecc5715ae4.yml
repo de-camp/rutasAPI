@@ -1,0 +1,48 @@
+_id: req_621a7ba5c2414a20b3a00eecc5715ae4
+type: Request
+parentId: fld_951d2681730244a49faa188aa26c5e22
+modified: 1686160797577
+created: 1685554838827
+url: http://localhost:3500/api/trabajito
+name: Creacion de Trabajito
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_33cbf7f733db42c0a630f5eba2f45254
+      name: description
+      value: Esta es una descripcion del trabajito 4
+      description: ""
+    - id: pair_36bb4ec130044c4e9c7c6cc584545456
+      name: dateInit
+      value: 05/02/2023
+      description: ""
+    - id: pair_300207486222439082650d4996b02a25
+      name: id_hired
+      value: 647f3e67c04ddc07045955a5
+      description: ""
+    - id: pair_76ab4ec98d1a491a947ac94401204ba8
+      name: status
+      value: 647bd7ae8cf61bb279d124a5
+      description: ""
+parameters: []
+headers:
+  - id: pair_b3ad91a6ec8b4002b446e63a522008e8
+    name: Content-Type
+    value: application/x-www-form-urlencoded
+    description: ""
+  - id: pair_dc2f051a4e1b475ca3ab9091265186f0
+    name: authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDdmM2U2M2MwNGRkYzA3MDQ1OTU1YTIiLCJpYXQiOjE2ODYwNjA2NjYsImV4cCI6MTY4NzM1NjY2Nn0.apS5adibdwTxziIBnMDRsN5g5ol8qb7ckPAEairQyww
+    description: ""
+authentication: {}
+metaSortKey: -1685947169172
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

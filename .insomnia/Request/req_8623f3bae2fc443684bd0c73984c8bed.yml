@@ -1,0 +1,21 @@
+_id: req_8623f3bae2fc443684bd0c73984c8bed
+type: Request
+parentId: fld_951d2681730244a49faa188aa26c5e22
+modified: 1686061825273
+created: 1685828474390
+url: http://localhost:3500/api/trabajito
+name: Obtener Trabajitos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685947169222
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

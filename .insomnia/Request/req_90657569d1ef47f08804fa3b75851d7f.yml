@@ -1,0 +1,21 @@
+_id: req_90657569d1ef47f08804fa3b75851d7f
+type: Request
+parentId: wrk_086dcc8361854db89413fee39f93007e
+modified: 1685832863013
+created: 1685832792428
+url: http://localhost:3500/api/auth/prueba
+name: Obtener usuarios con populate
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685830910543
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
